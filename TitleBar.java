@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class TitleBar extends JPanel{
-	JButton settingButton = new JButton("Setting");
+	JButton settingButton = new JButton("⚙️ Setting");
 	
 	TitleBar(){
 		this.setPreferredSize(new Dimension(500,80));
